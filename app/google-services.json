@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324889235682",
+    "firebase_url": "https://haraka-41632-default-rtdb.firebaseio.com",
+    "project_id": "haraka-41632",
+    "storage_bucket": "haraka-41632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324889235682:android:8fa86094a2a893f39f4ebb",
+        "android_client_info": {
+          "package_name": "com.example.haraka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324889235682-5ne44a0maso6heopngbr30uvetumm90d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8umdwKGFz-EmQLRbx1DBLpskGlp_M34g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324889235682-5ne44a0maso6heopngbr30uvetumm90d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
